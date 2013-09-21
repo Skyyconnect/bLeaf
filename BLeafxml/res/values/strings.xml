@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BLeafActivity!</string>
+    <string name="app_name">BLeaf</string>
+    <string name="RSSFeed">Enter an RSS Feed URL</string>
+    <string name="or">Or</string>
+    <string name="OPMLURL">Enter an OPML File URL</string>
+    <string name="buttonText">Analyze</string>
+    <string name="defaultText">Default</string>
+    <string name="button2Text">Scan</string> 
+    
+</resources>
